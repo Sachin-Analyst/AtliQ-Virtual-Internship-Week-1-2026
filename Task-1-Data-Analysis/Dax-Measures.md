@@ -1,4 +1,4 @@
------April------- 
+## April
 
 WFH_Status_April = 
 CALCULATE(
@@ -24,8 +24,9 @@ Total_present_days_April = [WFH_Status_April]+[WFO_Status_April]
 WFH_April_% = 
 DIVIDE([WFH_Status_April],[Total_present_days_April],0)
 
+---------------
 
--------May--------
+## May
 
 WFO_Status_May = 
 CALCULATE(
@@ -52,8 +53,9 @@ Total_present_days_May = [WFH_Status_May]+[WFO_Status_May]
 WFH_May_% = 
 DIVIDE([WFH_Status_May],[Total_present_days_May],0)
 
+---------------
 
---------June--------
+## June
 
 WFO_Status_June = 
 CALCULATE(
@@ -79,8 +81,9 @@ Total_present_days_June = [WFH_Status_June]+[WFO_Status_June]
 Attendance_%_June = 
 DIVIDE([Total_present_days_June],[Total_status_June],0)
 
+---------------
 
--------Other Dax measures---------
+## Other Dax measures
 
 Distinct_Employees = 
     COUNTROWS(
