@@ -10,7 +10,6 @@ Welcome to my AtliQ Technologies Virtual Internship project. This repository fea
 - [Key Features](#Key-Features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Visual Insights](#Visual-Insights)
 - [License](#license)
 
 ## Introduction
@@ -65,11 +64,6 @@ To explore or modify this project:
 
 # Note !
 The raw dataset used in this project is internal to the AtliQ Technologies internship program and is not included in this repository. All logic and results shown are based on that dataset.
-
-----
-
-## Visual Insights
-LinkedIn Carousel Post 
 
 ----
 
