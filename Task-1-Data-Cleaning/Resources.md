@@ -1,4 +1,4 @@
-# Task 1 — Cleaning & Analyzing Employee Dataset
+# Task 1 Data Cleaning
 
 Attendance_data.csv | Power BI | Power Query | DAX
 
@@ -78,7 +78,8 @@ Menstrual Leave --> ML | Paid Leave --> PL | Sick Leave --> SL | Weekly Off --> 
 The status is in long text
 
 **Approach**
-- Navigated to Add column Ribbon > Clicked conditional column > then written If condition > Value Work From Home equals > WFH, Else If Value Work From Office equals > WFO Else Weekday
+- Navigated to Add column Ribbon > Clicked conditional column > then written If condition > Value Work From Home equals > WFH, 
+-Else If Value Work From Office equals > WFO Else Weekday
 - Likewise written for all the status
 
 **Result**
