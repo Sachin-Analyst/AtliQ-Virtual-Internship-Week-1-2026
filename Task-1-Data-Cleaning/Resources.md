@@ -11,13 +11,13 @@ Attendance_data.csv | Power BI | Power Query | DAX
 ### 1. Check for duplicates in the dataset and remove them.
 
 **Problem**
-Total Rows before removing duplicates — 6336
+Total Rows before removing duplicates - 6336
 
 **Approach**
 Home > Transform Data > Left click on "date column" > Shift Key + Left click on "Status Column" > Right Click > Remove Duplicates
 
 **Result**
-Total Rows After removing duplicates — 6208
+Total Rows After removing duplicates - 6208
 
 ---
 
