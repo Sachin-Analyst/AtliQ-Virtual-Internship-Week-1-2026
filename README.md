@@ -17,7 +17,7 @@ Welcome to my AtliQ Technologies Virtual Internship project. This repository fea
 
 ---
 
-*Project Title:* AtliQ Technologies — Virtual Internship, Week 1
+*Project Title:* AtliQ Technologies Virtual Internship, Week 1
 *Created By:* [Sachin-Analyst]
 *Tools Used:* Power BI, Power Query, DAX
 *Focus Areas:* Data Cleaning & Standardization, Workforce Attendance Analysis, WFH Trend Evaluation
@@ -25,7 +25,7 @@ Welcome to my AtliQ Technologies Virtual Internship project. This repository fea
 ---
 
 ## Project Description
-This repository contains the Week 1 body of work from my Data Analyst Virtual Internship at AtliQ Technologies. Task 1 covers cleaning a raw HR attendance dataset in Power Query — fixing duplicates, inconsistent date formats, stray characters in employee IDs, inconsistent name capitalization, and unmapped status codes — followed by DAX-based analysis to answer real business questions on employee count, WFH percentage, and attendance trends. Task 2 and Task 3 will be added to this repository as the week progresses.
+This repository contains the Week 1 body of work from my Data Analyst Virtual Internship at AtliQ Technologies. Task 1 covers cleaning a raw HR attendance dataset in Power Query fixing duplicates, inconsistent date formats, stray characters in employee IDs, inconsistent name capitalization, and unmapped status codes followed by DAX-based analysis to answer real business questions on employee count, WFH percentage, and attendance trends. Task 2 and Task 3 will be added to this repository as the week progresses.
 
 ---
 
