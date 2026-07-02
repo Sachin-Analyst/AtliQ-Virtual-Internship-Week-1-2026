@@ -43,7 +43,7 @@ This repository contains the Week 1 body of work from my Data Analyst Virtual In
 To explore or modify this project:
 1. *Clone the repository:*
    ```bash
-   git clone
+   git clone https://github.com/Sachin-Analyst/AtliQ-Virtual-Internship-Week-1.git
    ```
    - Open terminal and run the command
 2. *Download and Open Power BI Desktop*
