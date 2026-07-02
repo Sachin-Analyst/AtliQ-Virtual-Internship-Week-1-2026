@@ -1,4 +1,4 @@
-# AtliQ-Virtual-Internship-Week-1
+# AtliQ-Virtual-Internship-Week-1-july-2026
 Welcome to my AtliQ Technologies Virtual Internship project. This repository features a data cleaning and business analysis solution built for AtliQ Technologies' HR attendance data. The project utilizes Power Query-based data cleaning and DAX-driven analysis to evaluate key workforce metrics including WFH %, attendance trends, and employee count to standardize raw data and drive data-informed HR insights.
 
 ---
