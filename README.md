@@ -17,8 +17,11 @@ Welcome to my AtliQ Technologies Virtual Internship project. This repository fea
 ---
 
 *Project Title:* AtliQ Technologies Virtual Internship, Week 1
-*Created By:* [Sachin-Analyst]
+
+*Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst)  
+
 *Tools Used:* Power BI, Power Query, DAX
+
 *Focus Areas:* Data Cleaning & Standardization, Workforce Attendance Analysis, WFH Trend Evaluation
 
 ---
