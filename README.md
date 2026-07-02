@@ -69,9 +69,7 @@ The raw dataset used in this project is internal to the AtliQ Technologies inter
 ----
 
 ## Visual Insights
-LinkedIn Carousel Post -
-Live Dashboard -
-Video Presentation -
+LinkedIn Carousel Post 
 
 ----
 
