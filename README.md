@@ -1,6 +1,6 @@
 # AtliQ-Virtual-Internship-Week-1-july-2026
 
-Welcome to my AtliQ Technologies Virtual Internship project. This repository features a data cleaning and business analysis solution built for AtliQ Technologies' HR attendance data, along with a data normalization solution built for AtliQ Technologies' order-level sales data. The project utilizes Power Query-based data cleaning, DAX-driven analysis, and star schema data modeling to evaluate key workforce metrics and structure denormalized transactional data for reliable reporting.
+Welcome to my AtliQ Technologies Virtual Internship project. This repository features a data cleaning and business analysis solution built for AtliQ Technologies' HR attendance data, along with a data normalization solution built for AtliQ Technologies' order level sales data. The project utilizes Power Query-based data cleaning, DAX-driven analysis, and star schema data modeling to evaluate key workforce metrics and structure denormalized transactional data for reliable reporting.
 
 ---
 
@@ -25,10 +25,10 @@ Welcome to my AtliQ Technologies Virtual Internship project. This repository fea
 ## Project Description
 This repository contains the Week 1 body of work from my Data Analyst Virtual Internship at AtliQ Technologies.
 
-*Task 1* covers cleaning a raw HR attendance dataset in Power Query — fixing duplicates, inconsistent date formats, stray characters in employee IDs, inconsistent name capitalization, and unmapped status codes — followed by DAX-based analysis to answer real business questions on employee count, WFH percentage, and attendance trends.
+*Task 1* covers cleaning a raw HR attendance dataset in Power Query fixing duplicates, inconsistent date formats, stray characters in employee IDs, inconsistent name capitalization, and unmapped status codes — followed by DAX-based analysis to answer real business questions on employee count, WFH percentage, and attendance trends.
 
 
-*Task 2* covers transforming a denormalized order-level dataset (`fact_order_lines.csv`) into a normalized star schema using Power Query and Power Pivot in Excel — splitting a single flat table into one fact table and three dimension tables (customers, products, date), connected via Diagram View relationships.
+*Task 2* covers transforming a denormalized order-level dataset (`fact_order_lines.csv`) into a normalized star schema using Power Query and Power Pivot in Excel splitting a single flat table into one fact table and three dimension tables (customers, products, date), connected via Diagram View relationships.
 
 
 Task 3 will be added to this repository as the week progresses.
